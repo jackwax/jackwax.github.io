@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jack &#39;Wax&#39; Reynolds</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Jack &#39;Wax&#39; Reynolds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blog Post</title>
+      <link>https://example.com/post/first_blog_post/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/first_blog_post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exchange</title>
+      <link>https://example.com/projects/exchange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/exchange/</guid>
+      <description>In most story-driven video games, the player character is one who has little to no backstory, such that the player can see the character they are playing as an extension of themselves. What if this wasn’t the case? What if the player character had a whole life they lead unbeknownst to the player at the game’s start? Then we can think of playing as this person as almost like a possession.</description>
+    </item>
+    
+  </channel>
+</rss>
